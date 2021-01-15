@@ -11,16 +11,18 @@ The Render style for each task are below (by order):
 #### Task 0:
 
 ![](https://i.imgur.com/DoZbvs9.png)
-
+<br>
 #### Task 1:
 
 ![](https://i.imgur.com/kf48o97.gif)
-
+<br>
 #### Task 2:
 
 ![](https://i.imgur.com/uJiQvj6.png)
-![](https://i.imgur.com/1tTZPWb.png)
 
+
+![](https://i.imgur.com/1tTZPWb.png)
+<br>
 #### Task 3:
 
 ![](https://i.imgur.com/QDl2wrm.gif)

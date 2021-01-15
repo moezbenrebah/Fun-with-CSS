@@ -14,7 +14,7 @@ The Render style for each task are below (by order):
 
 #### Task 1:
 
-![](https://i.imgur.com/kf48o97.gifv)
+![](https://i.imgur.com/kf48o97.gif)
 
 #### Task 2:
 
@@ -23,5 +23,5 @@ The Render style for each task are below (by order):
 
 #### Task 3:
 
-![](https://i.imgur.com/QDl2wrm.gifv)
+![](https://i.imgur.com/QDl2wrm.gif)
 

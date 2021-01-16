@@ -162,39 +162,35 @@ html {
 /* css file */
 
 ul {
-    position: relative;
     display: flex;
     flex-direction: row;
     list-style: none;
-    margin: 0;
     align-items: center;
     justify-content: center;
   }
 li {
-    font-size: 50px;
-    font-weight: bolder;
     display: flex;
     flex-direction: column;
     text-align: center;
+    font-weight: bold;
+    font-size: 50px;
     margin: 20px;
     padding: 20px;
     padding-top: 25px;
-    background-color: #f3f3f3;
+    background-color: rgb(230, 230, 230);
     border: solid black 2px;
     border-radius: 15px;
 }
-.icon {
-    display: block;
+li .icon {
+    display: flex;
     width: 290px;
     height: 25rem;
-    margin-top: 10px;
     background-image: url("images/img1.png");
-    background-size: auto;
     background-repeat: no-repeat;
 }
   
 li .i-html {
-    background-position: center left;
+    background-position: left;
 }
   
 li .i-css {
@@ -202,5 +198,5 @@ li .i-css {
   }
   
 li .i-js {
-    background-position: center right;
+    background-position: right;
 }
